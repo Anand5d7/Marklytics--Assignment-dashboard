@@ -1,4 +1,4 @@
-# Weather App
+# Build a Dynamic Dashboard Using React
 
 This project is a weather application that provides current weather information and a 5-day forecast for a given location. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -50,7 +50,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 1. Clone the repository:
 
     ```bash
-    [git clone https://github.com/Anand5d7/Weather-App.git](https://github.com/Anand5d7/Marklytics--Assignment-dashboard.git)
+    git clone https://github.com/Anand5d7/Weather-App.git
     ```
 
 2. Navigate to the project directory:
@@ -93,15 +93,9 @@ The Weather App is built using:
 
 You can view screenshots of the application 
 
- ![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_15_31](https://github.com/Anand5d7/Weather-App/assets/156296146/eda73662-5d10-439d-82b0-dfcd63249294)
+ ![React App - Personal - Microsoft​ Edge 22-06-2024 11_41_29](https://github.com/Anand5d7/Marklytics--Assignment-dashboard/assets/156296146/4b1c36e2-cb0d-4fa0-b816-8f36902d79e1)
 
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_15_59](https://github.com/Anand5d7/Weather-App/assets/156296146/6e5859ed-279e-434a-93af-10435eea9c89)
-
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_16_14](https://github.com/Anand5d7/Weather-App/assets/156296146/c49d6771-628a-4cd9-aed6-41b85e01c997)
-
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_16_24](https://github.com/Anand5d7/Weather-App/assets/156296146/f39b621c-9c16-410d-85d5-2ee1cffa2220)
-
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_17_05](https://github.com/Anand5d7/Weather-App/assets/156296146/34d2f64b-30d9-4446-b6d0-199cf8705914)
+![React App - Personal - Microsoft​ Edge 22-06-2024 11_41_37](https://github.com/Anand5d7/Marklytics--Assignment-dashboard/assets/156296146/3c35c989-ea9b-4c93-9fb8-cc30637a65f3)
 
 
 
