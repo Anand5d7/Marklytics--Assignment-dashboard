@@ -104,7 +104,7 @@ You can view screenshots of the application
 You can view a live demo of the application.
 
 
-[https://github.com/Anand5d7/Weather-App/assets/156296146/ed7edfc5-e815-47ba-bc37-2f2ba126b6af](https://drive.google.com/file/d/1Zc_sIeXytOrwpZfwShbRgOcfcPUJPgC1/view?usp=drive_link)
+https://github.com/Anand5d7/Weather-App/assets/156296146/ed7edfc5-e815-47ba-bc37-2f2ba126b6af
 
 
 
