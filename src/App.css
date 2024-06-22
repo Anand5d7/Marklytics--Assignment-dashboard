@@ -1,0 +1,166 @@
+/* App.css */
+.App {
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+  text-align: center;
+  background-color: #e2eaea;
+  padding: 40px;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+.dark-mode button {
+  background-color: #128a63;
+  color: #ffffff;
+}
+.dark-mode button:hover {
+  background-color: #904e1b;
+}
+
+.dropdown {
+  margin: 20px auto;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dropdown label {
+  margin-bottom: 5px;
+  padding-right: 10px;
+}
+
+.dropdown select {
+  width: 80%;
+  background-color: #65deda;
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 14px;
+}
+.dropdown select:hover {
+  background-color: #65deda;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  padding: 0px;
+  padding-top: 30px;
+  margin: 0px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  background-color: rgb(216, 98, 30);
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}
+button:hover {
+  background-color: #121212;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chart-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 20px 0;
+}
+.charts-data {
+  text-align: center;
+}
+.table-container {
+  width: 100%;
+}
+.charts-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #ba8c0d;
+  color: #ffffff;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+.dark-mode table, .dark-mode th, .dark-mode td {
+  border: 1px solid #ffffff;
+}
+
+.dark-mode td {
+  background-color: #333333;
+}
+.dark-mode th{
+  background-color: #d76213;
+}
+
+.current-weather {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.current-weather img {
+  width: 100px;
+  height: 100px;
+}
+
+.current-weather p {
+  margin: 5px 0;
+}
+
+
+/* Responsive Design */
+@media screen and (min-width: 768px) {
+  .App{
+    padding: 30px;
+  }
+  .dropdown {
+    flex-direction: row;
+  }
+  .chart-container {
+    width: 100%;
+    max-width: 600px;
+  }
+  .table-container {
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    margin: 20px;
+  }
+  .charts-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+}
